@@ -6,7 +6,7 @@ const USER_NAME = "EA01";
 const TILES = [
   {
     id: "approve-stagging",
-    title: "Approve Stagging List",
+    title: "Approve Sales Orders",
     url: "https://ntwoods.github.io/approveStaggingList/",
     api:
       "https://script.google.com/macros/s/AKfycbxqABSJlzRSLLqCaaakAWgoaJgm5Jhbc8Y2bYLAJXubxu7ewajemUmM9dqWPvyOqjQX/exec?action=COUNT_ELIGIBLE&key=" +
