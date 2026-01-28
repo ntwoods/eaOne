@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 
 const DASH_KEY = "EA_DASH_KEY_CHANGE_ME"; // <-- same key you set in Apps Script CONFIG.DASH_KEY
-const USER_NAME = "Shaista Parveen";
+const USER_NAME = "EA01";
 
 const TILES = [
   {
@@ -153,7 +153,7 @@ export default function App() {
           <div className="brand__logo" aria-hidden="true">EA</div>
           <div>
             <div className="brand__title">EA Portal</div>
-            <div className="brand__sub">Shaista Parveen • Work Dashboard</div>
+            <div className="brand__sub">EA01 • Work Dashboard</div>
           </div>
         </div>
 
@@ -184,7 +184,7 @@ export default function App() {
       <main className="main">
         <div className="topbar">
           <div>
-            <h1 className="h1">Welcome, Shaista 👋</h1>
+            <h1 className="h1">Welcome, EA01 👋</h1>
             <p className="subtitle">
               Aapke liye quick, clean aur super easy dashboard — pending counts live APIs se aa rahe hain.
             </p>
